@@ -1,0 +1,29 @@
+{
+  "name": "egghead-asynchronous-js-with-async-await",
+  "version": "1.0.0",
+  "description": "Implementation of Asynchronous JavaScript with async/await course of egghead.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjaca10/egghead-asynchronous-js-with-async-await.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "es2017",
+    "await",
+    "async"
+  ],
+  "author": "Javier Aguila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjaca10/egghead-asynchronous-js-with-async-await/issues"
+  },
+  "homepage": "https://github.com/sjaca10/egghead-asynchronous-js-with-async-await#readme",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
+}
