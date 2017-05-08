@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/sjaca10/egghead-asynchronous-js-with-async-await#readme",
   "dependencies": {
+    "bluebird": "^3.5.0",
     "node-fetch": "^1.6.3"
   }
 }
